@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 import seaborn as sns
 st.title('🤖Machine Learning app')
-st.info('This app builds an Recommendation model!')
+st.info('This app builds an Recommendation model!!')
 # 📌 STEP 2: UPLOAD CSV FILE
 from google.colab import files
 uploaded = files.upload()
