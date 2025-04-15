@@ -1,4 +1,9 @@
 streamlit
 numpy
 pandas
+RandomForestRegressor
+Standard Scaler
+train_test_split
+matplotlib.pyplot
+seaborn
 scikit-learn
