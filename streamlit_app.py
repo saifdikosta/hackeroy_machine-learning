@@ -9,7 +9,7 @@ import seaborn as sns
 st.title('🤖Machine Learning app')
 st.info('This app builds an Recommendation model!!')
 # 📌 STEP 2: UPLOAD CSV FILE
-from google.colab import files
+from hackeroy_machine-learning import employee_dataset_updated
 uploaded = files.upload()
 
 df = pd.read_csv(next(iter(uploaded)))
