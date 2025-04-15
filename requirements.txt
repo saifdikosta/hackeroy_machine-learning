@@ -2,7 +2,7 @@ streamlit
 numpy
 pandas
 RandomForestRegressor
-Standard Scaler
+StandardScaler
 train_test_split
 matplotlib.pyplot
 seaborn
